@@ -1,0 +1,10 @@
+{
+    "SenderEmail": "postmaster@sandbox64a696dc3dd44c17810c7657671b7704.mailgun.org",
+    "SenderPW": "86cb83aa0261219e50b5c81a1c2fa70a-81bd92f8-500457c7",
+    "TargetEmail": "brunodecnop@id.uff.br",
+    "SMTPAddress": "smtp.mailgun.org",
+    "SMTPPort": 587,
+    "EnableSsl": true,
+    "UseDefaultCredentials": false,
+    "APIKey": "GBZOD1IAYVTAVL32"
+}

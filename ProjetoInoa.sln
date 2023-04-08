@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoInoa", "ProjetoInoa\ProjetoInoa.csproj", "{9AF32806-F206-4543-AF0F-C68F6AD437D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF32806-F206-4543-AF0F-C68F6AD437D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF32806-F206-4543-AF0F-C68F6AD437D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF32806-F206-4543-AF0F-C68F6AD437D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF32806-F206-4543-AF0F-C68F6AD437D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82CE7CF1-DD42-409C-950E-BC487F246142}
+	EndGlobalSection
+EndGlobal
